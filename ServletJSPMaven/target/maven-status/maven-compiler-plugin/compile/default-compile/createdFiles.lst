@@ -1,0 +1,4 @@
+com\ingaru\web\dao\StudentDao.class
+com\ingaru\web\model\Student.class
+com\ingaru\FileUpload.class
+com\ingaru\web\GetStudentController.class
